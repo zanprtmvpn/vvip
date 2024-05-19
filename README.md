@@ -9,5 +9,5 @@
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://raw.githubusercontent.com/SukarnacellDigitalProduk/LTxFT/main/Fls/update && chmod +x update && ./update</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/zanprtmvpn/vvip/main/Fls/update && chmod +x update && ./update</code></pre>
 ```
