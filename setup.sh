@@ -305,8 +305,8 @@ fi
 }
 clear
 restart_system() {
-USRSC=$(wget -qO- https://raw.githubusercontent.com/SukarnacellDigitalProduk/izinsc/main/ip | grep $ipsaya | awk '{print $2}')
-EXPSC=$(wget -qO- https://raw.githubusercontent.com/SukarnacellDigitalProduk/izinsc/main/ip | grep $ipsaya | awk '{print $3}')
+USRSC=$(wget -qO- https://raw.githubusercontent.com/zanprtmvpn/vvip/main/ip | grep $ipsaya | awk '{print $2}')
+EXPSC=$(wget -qO- https://raw.githubusercontent.com/zanprtmvpn/vvip/main/ip | grep $ipsaya | awk '{print $3}')
 domain=$(cat /root/domain)
 userdel jame > /dev/null 2>&1
 Username="g"
