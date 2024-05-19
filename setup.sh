@@ -36,7 +36,7 @@ clear
 clear && clear && clear
 clear;clear;clear
 echo -e "${BlueBee}╔════════════════════════════════════════════════╗${NC}"
-echo -e "\033[96;1m               SUKARNA DIGITAL PRODUK               \033[0m"
+echo -e "\033[96;1m               ZANPRTM STORE PRODUK               \033[0m"
 echo -e "${BlueBee}╚════════════════════════════════════════════════╝${NC}"
 echo ""
 echo ""
